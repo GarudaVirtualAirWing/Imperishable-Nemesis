@@ -16,15 +16,18 @@ A Dynamic/Presistence Campaign - DCS Indonesia
 
 ##INFORMATION
 ```
-AWACS : Run & Respawn automatically AWACS Blue & Red
-Base Defender : Automatic Base / City Capture
-BLUEHelp  : CAP AI Support
-CSAR  : Combat Search and Rescue feature
-ctld-gvaw  : Complete Troops and Logistic Delivery feature modified for GVAW
-mission : Auto-Generate Mission Briefing/Task based
-mist & moose  : basis script
-REDThreats  : AI CAP, CAS, Bomber for REDFOR
-state-save  : Saving Ground unit when mission restarted
-WeaponManager : Weapon management (limitation per user)
-Zonasi  : List zone
+AWACS          : Run & Respawn automatically AWACS Blue & Red
+Base Defender  : Automatic Base / City Capture
+BLUEHelp       : CAP AI Support
+CSAR           : Combat Search and Rescue feature
+ctld-gvaw      : Complete Troops and Logistic Delivery feature modified for GVAW
+mission        : Auto-Generate Mission Briefing/Task based
+mist & moose   : basis script
+REDThreats     : AI CAP, CAS, Bomber for REDFOR
+state-save     : Saving Ground unit when mission restarted
+WeaponManager  : Weapon management (limitation per user)
+Zonasi         : List zone
 ```
+
+Kind Regards,
+Eagle Eye
